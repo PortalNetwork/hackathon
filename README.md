@@ -43,23 +43,23 @@ Problem of current DNS?
 ### Challenge 
 What is the challenge of Portal Network? Hosting decentralized website/application using Portal Network tools.
 
-#### Using our react-truffle-metamask framework
+#### 1. Using our react-truffle-metamask framework
 
 This repository is using the React.js, Truffle to build the DApp.
 [https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
 
-#### Using Bluzelle Swarm DB 
+#### 2. Using Bluzelle Swarm DB 
 
 Bluzelle Swarm DB
 [https://github.com/bluzelle/swarmDB](https://github.com/bluzelle/swarmDB)
 
-#### Using our service upload your hackathon project
+#### 3. Using our service upload your hackathon project
 
 - Using our hackathon upload page to upload your project: [http://h2.portal.network](http://h2.portal.network)
 
 - Portal Network will help you to build your decentralized website/application.
 - Portal Network will give you one of the ENS, ECNS, WNS.
 
-#### Access your decentralized website/application using our browser extension
+#### 4. Access your decentralized website/application using our browser extension
 
 [Portal Network Browser Extension](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
