@@ -12,16 +12,17 @@ Portal Network include several technology into our ecosystem.
 
 Technology               | Project
 -------------------------|:-------------------------------------
-Domain Name Service      | ENS, ECNS, WNS
-Content Delivery Network | Noia Network
-File Storage             | IPFS
-Database                 | Bluzelle
-Blockchain               | Ethereum, Ethereum Classic, Wanchain
+Domain Name Service      | [Portal Network](https://www.portal.network/)
+Content Delivery Network | [Noia Network](http://noia.network/)
+File Storage             | [IPFS](https://ipfs.io/)
+Database                 | [Bluzelle](https://bluzelle.com/)
+Blockchain               | [Ethereum](https://ethereum.org/), [Ethereum Classic](https://ethereumclassic.org/), [Wanchain](https://wanchain.org/)
+Crowdfunding             | [Pledgecamp](https://pledgecamp.com/)
 
 
-### ENS, ECNS, WNS
+### Portal Network
 
-ENS, ECNS and WNS is the Blockchain Name Services, are distributed, open, and extensible naming system based on the each blockchain.
+Portal Network connect ENS, ECNS and WNS, and provide distributed, open, and extensible naming system based on smart contract blockchains.
 
 ### Noia Network
 
