@@ -36,31 +36,32 @@ IPFS is a peer-to-peer hypermedia protocol to make the web faster, safer, and mo
 
 Bluzelle brings together the sharing economy and token economy. Bluzelle enables people to rent out their computer storage space to earn a token while dApp developers pay with a token to have their data stored and managed in the most efficient way.
 
+### Pledgecamp
+
+Pledgecamp uses blockchain technology to promote trust and cooperation between backers and creators.
+
 ## Hackathon Challenge Description
 
-Problem of current DNS?
-- DNS can be hijacking. DNS hijacking is the practice of subverting the resolution of Domain Name System (DNS) queries. This can be achieved by malware that overrides a computer's TCP/IP configuration to point at a rogue DNS server under the control of an attacker, or through modifying the behaviour of a trusted DNS server so that it does not comply with internet standards.
+### Bluzelle Challenge
 
-### Challenge 
-What is the challenge of Portal Network? Hosting decentralized website/application using Portal Network tools.
+Building an instant messenger, powered by the Bluzelle database. 
+Here are the requirements:
+- An instant messenger that allows users to send textual messages to other users.
+- Textual messages should be stored on the Bluzelle network, on a testnet swarm.
+- There should be a means to signup, either via email or via mobile phone. Bonus if there is authentication to confirm the person owns that email address or phone number
+- The instant messenger can be a web app or mobile app. Bonus for having a mobile app that runs easily on Android or iOS.
+- It is not required that the core logic for the instant messenger itself be decentralized, but it is a big bonus if you can demonstrate this (perhaps on a blockchain).
 
-#### 1. Using our react-truffle-metamask framework
+### Noia Network Challenge
 
-This repository is using the React.js, Truffle to build the DApp.  
-Repository: [https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
+### Portal Network Challenge
 
-#### 2. Using Bluzelle Swarm DB 
+Building a DApp using Portal Network DApp framework and upload to IPFS and bind a blockchain domain name, powered by the Portal Network.
+Here are the requirements:
+- Using our react-truffle-metamask framework, or choose your favorite dapp framework
+    - This repository is using the React.js, Truffle to build the DApp: [https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
+- Using our hackathon uploader to upload your project: [http://h2.portal.network](http://h2.portal.network)
 
-Bluzelle Swarm DB: 
-[https://github.com/bluzelle/swarmDB](https://github.com/bluzelle/swarmDB)
+- Access your decentralized website/application by using our browser extension: [Link](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
 
-#### 3. Using our service upload your hackathon project
-
-- Using our hackathon upload page to upload your project: [http://h2.portal.network](http://h2.portal.network)
-
-- Portal Network will help you to build your decentralized website/application.
-- Portal Network will give you one of the ENS, ECNS, WNS.
-
-#### 4. Access your decentralized website/application using our browser extension
-
-Portal Network Browser Extension: [Link](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
+### Pledgecamp
