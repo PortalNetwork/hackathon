@@ -45,12 +45,12 @@ What is the challenge of Portal Network? Hosting decentralized website/applicati
 
 #### 1. Using our react-truffle-metamask framework
 
-This repository is using the React.js, Truffle to build the DApp.
-[https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
+This repository is using the React.js, Truffle to build the DApp.  
+Repository: [https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
 
 #### 2. Using Bluzelle Swarm DB 
 
-Bluzelle Swarm DB
+Bluzelle Swarm DB: 
 [https://github.com/bluzelle/swarmDB](https://github.com/bluzelle/swarmDB)
 
 #### 3. Using our service upload your hackathon project
@@ -62,4 +62,4 @@ Bluzelle Swarm DB
 
 #### 4. Access your decentralized website/application using our browser extension
 
-[Portal Network Browser Extension](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
+Portal Network Browser Extension: [Link](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
