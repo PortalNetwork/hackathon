@@ -40,7 +40,8 @@ Bluzelle brings together the sharing economy and token economy. Bluzelle enables
 Problem of current DNS?
 - DNS can be hijacking. DNS hijacking is the practice of subverting the resolution of Domain Name System (DNS) queries. This can be achieved by malware that overrides a computer's TCP/IP configuration to point at a rogue DNS server under the control of an attacker, or through modifying the behaviour of a trusted DNS server so that it does not comply with internet standards.
 
-### Hosting decentralized website/application using Portal Network.
+### Challenge 
+What is the challenge of Portal Network? Hosting decentralized website/application using Portal Network tools.
 
 #### Using our react-truffle-metamask framework
 
@@ -58,3 +59,7 @@ Bluzelle Swarm DB
 
 - Portal Network will help you to build your decentralized website/application.
 - Portal Network will give you one of the ENS, ECNS, WNS.
+
+#### Access your decentralized website/application using our browser extension
+
+[Portal Network Browser Extension](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
