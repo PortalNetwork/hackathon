@@ -44,9 +44,17 @@ Problem of current DNS?
 
 #### Using our react-truffle-metamask framework
 
+This repository is using the React.js, Truffle to build the DApp.
+[https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
+
 #### Using Bluzelle Swarm DB 
+
+Bluzelle Swarm DB
+[https://github.com/bluzelle/swarmDB](https://github.com/bluzelle/swarmDB)
 
 #### Using our service upload your hackathon project
 
-- Get your decentralized website/application.
-- Get your ENS, ECNS, WNS.
+- Using our hackathon upload page to upload your project: [http://h2.portal.network](http://h2.portal.network)
+
+- Portal Network will help you to build your decentralized website/application.
+- Portal Network will give you one of the ENS, ECNS, WNS.
