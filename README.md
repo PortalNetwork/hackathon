@@ -54,21 +54,12 @@ Portal Network Hackathon Callenge contains two parts of requirements, one is for
 
 Hacker should utilize the tech provided as the following :
 
-#### 1) Bluzelle
+#### Challenge Detail
 
-Building an instant messenger, powered by the Bluzelle database. 
-Here are the requirements:
-- An instant messenger that allows users to send textual messages to other users.
-- Textual messages should be stored on the Bluzelle network, on a testnet swarm.
-- There should be a means to signup, either via email or via mobile phone. Bonus if there is authentication to confirm the person owns that email address or phone number
-- The instant messenger can be a web app or mobile app. Bonus for having a mobile app that runs easily on Android or iOS.
-- It is not required that the core logic for the instant messenger itself be decentralized, but it is a big bonus if you can demonstrate this (perhaps on a blockchain).
+Portal Network provides the modern dApp framwework which contains the decentralized technology which contains Noia, Bluzelle, and IPFS.
 
-#### 2) Noia Network
+Teams may use the dApp framework to implement their own ideas, and deploy to Portal Network system. You'll get the corresponding IPFS link and the wanchain name service.
 
-#### 3) Portal Network
-
-Building a DApp using Portal Network DApp framework and upload to IPFS and bind a blockchain domain name, powered by the Portal Network.
 Here are the requirements:
 - Using our react-truffle-metamask framework, or choose your favorite dapp framework
     - This repository is using the React.js, Truffle to build the DApp: [https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
