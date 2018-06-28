@@ -1,5 +1,7 @@
 # Portal Network Hackathon
 
+[continue update]
+
 Portal Network is honor to invite our partners to let everyone can participate and enjoy hacking problmes using the decentralized technology and economy.
 
 # Hackthon Summary
