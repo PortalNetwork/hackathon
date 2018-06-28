@@ -62,7 +62,7 @@ Teams may use the dApp framework to implement their own ideas, and deploy to Por
 
 Here are the requirements:
 - Using our react-truffle-metamask framework, or choose your favorite dapp framework
-    - This repository is using the React.js, Truffle to build the DApp: [https://github.com/PhyrexTsai/react-truffle-metamask](https://github.com/PhyrexTsai/react-truffle-metamask)
+    - This repository is using the React.js, Truffle to build the DApp: [https://github.com/PortalNetwork/react-truffle-metamask](https://github.com/PortalNetwork/react-truffle-metamask)
 - Using our hackathon uploader to upload your project: [http://h2.portal.network](http://h2.portal.network)
 
 - Access your decentralized website/application by using our browser extension: [Link](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
