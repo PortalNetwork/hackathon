@@ -1,4 +1,4 @@
-# Portal Network Hackathon
+# Portal Network Hackathon
 
 Portal Network is honor to invite our partners to let everyone can participate and enjoy hacking problmes using the decentralized technology and economy.
 
@@ -50,7 +50,7 @@ Pledgecamp uses blockchain technology to promote trust and cooperation between b
 
 Portal Network Hackathon Callenge contains two parts of requirements, one is for tecniqual, and the other one is business model.
 
-### 1. Techniqual Requirement
+### 1. Technical Requirement
 
 Hacker should utilize the tech provided as the following :
 
