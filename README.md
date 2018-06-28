@@ -1,4 +1,10 @@
-# Intrduce of Portal Network
+# Portal Network Hackathon
+
+Portal Network is honor to invite our partners to let everyone can participate and enjoy hacking problmes using the decentralized technology and economy.
+
+# Hackthon Summary
+
+## Introduction of Portal Network
 
 [Our Blog](https://medium.com/portalnetworkofficial)
 
@@ -6,7 +12,7 @@
 
 This is a guide to let you know about Portal Network. And use our tools building a decentralized website/application and hosting on blockchain name service.
 
-## Portal Network Technology
+## Technology
 
 Portal Network include several technology into our ecosystem.
 
@@ -42,7 +48,13 @@ Pledgecamp uses blockchain technology to promote trust and cooperation between b
 
 ## Hackathon Challenge Description
 
-### Bluzelle Challenge
+Portal Network Hackathon Callenge contains two parts of requirements, one is for tecniqual, and the other one is business model.
+
+### 1. Techniqual Requirement
+
+Hacker should utilize the tech provided as the following :
+
+#### 1) Bluzelle
 
 Building an instant messenger, powered by the Bluzelle database. 
 Here are the requirements:
@@ -52,9 +64,9 @@ Here are the requirements:
 - The instant messenger can be a web app or mobile app. Bonus for having a mobile app that runs easily on Android or iOS.
 - It is not required that the core logic for the instant messenger itself be decentralized, but it is a big bonus if you can demonstrate this (perhaps on a blockchain).
 
-### Noia Network Challenge
+#### 2) Noia Network
 
-### Portal Network Challenge
+#### 3) Portal Network
 
 Building a DApp using Portal Network DApp framework and upload to IPFS and bind a blockchain domain name, powered by the Portal Network.
 Here are the requirements:
@@ -64,4 +76,10 @@ Here are the requirements:
 
 - Access your decentralized website/application by using our browser extension: [Link](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
 
-### Pledgecamp
+### 2. Business Model Requirement
+
+Because the hackathon is not only just the implementation of blockchain technology, but a workable business model behind the idea is the key part.
+
+#### Pledgecamp
+
+Pledgecamp utilize the blockchain technology to enhance efficency within every crowdfunding projects, and promote trust and cooperation between backers and creators.
