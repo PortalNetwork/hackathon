@@ -2,7 +2,7 @@
 
 [Continuously updating]
 
-Portal Network is honor to invite our partners to let everyone can participate and enjoy problme solving by using the decentralized technology and economy.
+Portal Network is honored to be inviting our partners to Hackathon Korea. We welcome everyone to participate and solve challenges by using different decentralized technologies.
 
 # Hackthon Summary
 
@@ -12,12 +12,12 @@ Portal Network is honor to invite our partners to let everyone can participate a
 
 [Our Github](https://github.com/PortalNetwork)
 
-This is a guide to let you know about Portal Network. And use our tools building a decentralized website/application and hosting on blockchain name service.
+This is a guide to let you know more about Portal Network. You can use our tools to build a decentralized website/application that is hosted on blockchain name service.
 
 ## What is this Hackathon about?
-Cryptocurrency and blockchain technology has definitely become one of the top trending topics last year. However, more than 90% of the people in this industry are traders and investors. It seems that most of the people are ignoring the technology behind that made bitcoin and all the other cryptocurrency possible. Portal Network values the efforts and technology behind the scene, so to foster this decentralized technology, Portal Network and its partners welcome anyone to join this Hackathon.
+Cryptocurrency and blockchain technology have definitely become one of the top trending topics last year. However, more than 90% of the people in this industry are traders and investors. It seems that most of the people are ignoring the technology behind that made bitcoin and all other cryptocurrencies possible. Portal Network values the technology behind the scene, so in order to foster this decentralized technology, Portal Network and its partners welcome anyone to join this Hackathon.
 
-Participants will solve the challenges by utilizing different techs provided in the event. People who have been in blockchain might have noticed that decentralized technology still has lots of challenges to overcome, such as scalability, security and so on. This Hackathon will be the time to try out different decentralized technologies that we provide to test its limit.
+Participants will solve the challenges by utilizing different technologies provided in the event. People who have been in blockchain might have noticed that decentralized technology still has lots of challenges to overcome, such as scalability, security and so on. This Hackathon will be the time to try and test its limit.
 
 *By participating the Hackathon Korea by Portal Network, you are agreeing to all the terms and rules stated below.
 
@@ -27,18 +27,18 @@ During the hackathon, 3 technologies will be used:
 2. Bluzelle - decentralized database
 3. Noia Network - decentralized content delivery network (CDN)
 
-Additionally, 3 different smart contract platform will be used:
+Additionally, 3 different smart contract platforms will be used:
 1. Ethereum
 2. Ethereum Classic
 3. Wanchain
 
-Participants will have a challenge, which is to be solved by utilizing the relevant technology. At the end of the event, each team will have to prepare a pitch on stage to demonstrate their idea or product, which will be scored by the judges (please see Judging section below for more information).
+Participants will have a challenge to solve by applying the relevant blockchain technology. At the end of the event, each team will have to prepare a pitch on stage to demonstrate their idea or product, which will be scored by the judges (please see Judging section below for more information).
 
 Participants can work as an individual (team of 1 person) or in a group (team of 2 - 5 people). Pitching time is to be decided on the day depending on the number of participants.
 
 ## Technology
 
-Portal Network include several technology into our ecosystem.
+Portal Network includes several technologies into our ecosystem.
 
 Technology               | Project
 -------------------------|:-------------------------------------
@@ -52,7 +52,7 @@ Crowdfunding             | [Pledgecamp](https://pledgecamp.com/)
 
 ### Portal Network
 
-Portal Network connect ENS, ECNS and WNS, and provide distributed, open, and extensible naming system based on smart contract blockchains.
+Portal Network connects ENS, ECNS and WNS, and provides distributed, open, and extensible naming system based on smart contract platforms.
 
 ### Noia Network
 
@@ -64,7 +64,7 @@ IPFS is a peer-to-peer hypermedia protocol that makes the web faster, safer, and
 
 ### Bluzelle
 
-Bluzelle brings together the sharing economy and token economy. Bluzelle enables people to rent out their computer storage space to earn a token while dApp developers pay tokens to have their data stored and managed in the most efficient way.
+Bluzelle brings together the sharing economy and token economy. Bluzelle enables people to rent out their computer storage space to earn a token while dApp developers pay tokens in return.
 
 ### Pledgecamp
 
@@ -72,39 +72,39 @@ Pledgecamp uses blockchain technology to promote trust and cooperation between b
 
 ## Hackathon Challenge Description
 
-Portal Network Hackathon Callenge contains two parts of requirements, one is for tecniqual, and the other one is business model.
+Portal Network Hackathon Challenge contains two requirements: technical, and an adaptable business model.
 
 ### 1. Technical Requirement
 
-Hacker should utilize the tech provided as the following :
+Participants should utilize the technologies provided
 
 #### Challenge Detail
 
 Portal Network provides the modern dApp framwework which contains the decentralized technology that includes Noia, Bluzelle, and IPFS.
 
-Teams may use the dApp framework to implement their own ideas, and deploy onto Portal Network system. You'll get the corresponding IPFS link and the wanchain name service.
+Teams may use the dApp framework to implement their own ideas, and deploy it onto Portal Network's system. You'll get the corresponding IPFS link and the wanchain name service.
 
-Here are the requirements:
-- Using our react-truffle-metamask framework, or choose your favorite dapp framework
+Here is the guide:
+- Use our react-truffle-metamask framework, or choose your favorite dapp framework
     - The repo link :
     [https://github.com/PortalNetwork/react-truffle-metamask](https://github.com/PortalNetwork/react-truffle-metamask)
-    - This frameworks contains the following integragtions :
+    - This frameworks contain the following integrations :
         1. React & Redux
         2. Truffle
         3. Bluzelle
         4. Web3
         5. MetaMask
-- Using our hackathon uploader to deploy your project: [http://h2.portal.network](http://h2.portal.network)
+- Use our hackathon uploader to deploy your project: [http://h2.portal.network](http://h2.portal.network)
 
 - Access your decentralized website/application by using our browser extension: [Link](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
 
 ### 2. Business Model Requirement
 
-This Hackathon is not just about the blockchain technology. Being able to use the technology is one part, and implementing the technology into real world application is another. Thus, idea established on a workable business model will be the second requirement for this Hacakthon.
+This Hackathon is not only about the blockchain technology, but also about implementing it into real application. Thus, ideas established on a workable business model will be the second requirement for this Hacakthon.
 
 #### Pledgecamp
 
-Pledgecamp utilizes the blockchain technology to enhance the efficency and trust issue within the current crowdfunding system. In this Hackathon, imagine you are a creator building a project that will be posted on Pledgecamp. Prepare a pitch that can effectively communicate your projects to the backers.
+Pledgecamp utilizes the blockchain technology to improve the efficency and trust issue within the current crowdfunding system. In this Hackathon, imagine you are a creator building a project that will be posted on Pledgecamp. Prepare a pitch that can effectively communicate your projects to the backers.
 
 ## Judging Criteria
 1. Utilization of the Blockchain technology provided (25%) :
@@ -120,9 +120,9 @@ Pledgecamp utilizes the blockchain technology to enhance the efficency and trust
 4. Pitch / Presentation (20%) :
     
     Presentation style and design.
-5. Participants' votes (10%) :
+5. Participants’ votes (10%) :
 
-    Each team participating in the Hackathon will have 1 vote to vote for the best team (cannot vote for themselves).
+    Each participating team will have a vote for their favorite project (cannot vote for themselves).
 
 ## Judges
 
