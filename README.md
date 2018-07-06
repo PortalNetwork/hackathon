@@ -131,3 +131,6 @@ Pledgecamp utilizes the blockchain technology to improve the efficency and trust
 2. ***Neeraj Murarka*** is a software engineer and computer systems architect with over 20 years expertise in cutting edge technology. He has worked on projects for Google, IBM, Hewlett Packard, Lufthansa, Thales Avionics, and Zynga. Some of Neeraj's largest projects include: locking down of modi ed Android OS for retail markets; multicast UDP satellite-based music streaming systems, mobile app for blockchain startup "Zeroblock"; design and development of secure and FFA-approved systems for Airbus and Boeing commercial aircraft.
 
 **More judges to be updated.**
+
+## Licence and Property Rights
+All posted solutions will be available for others to download or use. You agree that any original content (that is, content created by you for the Challenge) is freely available without restriction or is licensed as open source under the MIT license.
