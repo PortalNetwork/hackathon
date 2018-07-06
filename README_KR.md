@@ -114,3 +114,6 @@ Pledgecamp는 블록체인으로 현재 크라우드 펀딩 시스템의 효율�
 1. **Christopher Shen**은 기업가, 블록체인 애호가, 디자이너 및 기술 투자자입니다. Portal Network의 창립자로 DNS(도메인 이름 서비스)를 구축하고 여러 블록체인 플랫폼을 강화합니다. Portal Network는 IPFS (탈중앙화 파일 스토리지), Bluzelle (탈중앙화 데이터 스토리지), Noia Network (탈중앙화 CDN)와 같은 기존 블록체인 솔루션들을 연결하고 향상시키는 블록체인 프로젝트입니다. Christopher는 성공적인 블록체인 프로젝트의 초기 투자자며 대만의 대학 및 고등학교에서 블록체인에 관한 연설을 꾸준히 하고있다.
 
 2. **Neeraj Muraka**는 최첨단 기술 분야에서 20 년 이상의 경험을 보유한 소프트웨어 엔지니어 및 컴퓨터 시스템 설계자입니다. 그는 Google, IBM, Hewlett Packard, Lufthansa, Thales Avionics 및 Zynga등 프로젝트에 참여한 경험이 있다. 예) 멀티 캐스트 UDP 위성 기반 음악 스트리밍 시스템, 블록체인 프로젝트 “Zeroblock"를 위한 모바일 앱 개발; Airbus 및 보잉 상용기를 위한 안전하고 FFA 승인된 시스템 설계 및 개발등이 있다.
+
+## Licence and Property Rights
+All posted solutions will be available for others to download or use. You agree that any original content (that is, content created by you for the Challenge) is freely available without restriction or is licensed as open source under the MIT license.
