@@ -115,5 +115,7 @@ Pledgecamp는 블록체인으로 현재 크라우드 펀딩 시스템의 효율�
 
 2. **Neeraj Muraka**는 최첨단 기술 분야에서 20 년 이상의 경험을 보유한 소프트웨어 엔지니어 및 컴퓨터 시스템 설계자입니다. 그는 Google, IBM, Hewlett Packard, Lufthansa, Thales Avionics 및 Zynga등 프로젝트에 참여한 경험이 있다. 예) 멀티 캐스트 UDP 위성 기반 음악 스트리밍 시스템, 블록체인 프로젝트 “Zeroblock"를 위한 모바일 앱 개발; Airbus 및 보잉 상용기를 위한 안전하고 FFA 승인된 시스템 설계 및 개발등이 있다.
 
+3. ***Domas Povilauskas*** co-founded one of the most fastest-growing SaaS startups in the Baltic region - Tellq. His understanding of network technologies and data streaming businesses led to the initial concept of NOIA. Domas is responsible for business development and product vision.
+
 ## Licence and Property Rights
 All posted solutions will be available for others to download or use. You agree that any original content (that is, content created by you for the Challenge) is freely available without restriction or is licensed as open source under the MIT license.
