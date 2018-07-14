@@ -25,7 +25,7 @@ Participants will solve the challenges by utilizing different technologies provi
 During the hackathon, 3 technologies will be used:
 1. Portal Network - decentralized domain name service and web builder
 2. Bluzelle - decentralized database
-3. Noia Network - decentralized content delivery network (CDN)
+3. NOIA Network - decentralized content delivery network (CDN)
 
 Additionally, 3 different smart contract platforms will be used:
 1. Ethereum
@@ -43,7 +43,7 @@ Portal Network includes several technologies into our ecosystem.
 Technology               | Project
 -------------------------|:-------------------------------------
 Domain Name Service      | [Portal Network](https://www.portal.network/)
-Content Delivery Network | [Noia Network](http://noia.network/)
+Content Delivery Network | [NOIA Network](http://noia.network/)
 File Storage             | [IPFS](https://ipfs.io/)
 Database                 | [Bluzelle](https://bluzelle.com/)
 Blockchain               | [Ethereum](https://ethereum.org/), [Ethereum Classic](https://ethereumclassic.org/), [Wanchain](https://wanchain.org/)
@@ -54,9 +54,14 @@ Crowdfunding             | [Pledgecamp](https://pledgecamp.com/)
 
 Portal Network connects ENS, ECNS and WNS, and provides distributed, open, and extensible naming system based on smart contract platforms.
 
-### Noia Network
+### NOIA Network
 
-Noia is a decentralized content delivery network for the new internet.
+NOIA is a decentralized content delivery network for the new internet.
+
+#### Links 
+- [SDK NPM](https://www.npmjs.com/package/@noia-network/sdk)
+- [SDK GitHub](https://github.com/noia-network/sdk) 
+- [SDK Examples](https://github.com/noia-network/examples)
 
 ### IPFS
 
@@ -80,7 +85,7 @@ Participants should utilize the technologies provided
 
 #### Challenge Detail
 
-Portal Network provides the modern dApp framwework which contains the decentralized technology that includes Noia, Bluzelle, and IPFS.
+Portal Network provides the modern dApp framwework which contains the decentralized technology that includes NOIA, Bluzelle, and IPFS.
 
 Teams may use the dApp framework to implement their own ideas, and deploy it onto Portal Network's system. You'll get the corresponding IPFS link and the wanchain name service.
 
