@@ -132,7 +132,7 @@ Pledgecamp utilizes the blockchain technology to improve the efficency and trust
 
 3. ***Neeraj Murarka*** is a software engineer and computer systems architect with over 20 years expertise in cutting edge technology. He has worked on projects for Google, IBM, Hewlett Packard, Lufthansa, Thales Avionics, and Zynga. Some of Neeraj's largest projects include: locking down of modi ed Android OS for retail markets; multicast UDP satellite-based music streaming systems, mobile app for blockchain startup "Zeroblock"; design and development of secure and FFA-approved systems for Airbus and Boeing commercial aircraft.
 
-4 ***Domas Povilauskas*** co-founded one of the most fastest-growing SaaS startups in the Baltic region - Tellq. His understanding of network technologies and data streaming businesses led to the initial concept of NOIA. Domas is responsible for business development and product vision.
+4. ***Domas Povilauskas*** co-founded one of the most fastest-growing SaaS startups in the Baltic region - Tellq. His understanding of network technologies and data streaming businesses led to the initial concept of NOIA. Domas is responsible for business development and product vision.
 
 **More judges to be updated.**
 
