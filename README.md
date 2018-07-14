@@ -126,11 +126,13 @@ Pledgecamp utilizes the blockchain technology to improve the efficency and trust
 
 ## Judges
 
-1. ***Christopher Shen*** is an entrepreneur, blockchain enthusiast, futurist, designer and investor in technologies. He is the Founder of Portal Networks, which builds DNS (Domain name Service) and enhancement on multiple blockchain platforms. Portal Network connects and enhances existing blockchain solutions, such as IPFS for decentralized distributed file storage, Bluzelle for decentralized data storage, and NOIA Network for CDN (Content Delivery Network). Christopher is an early investor in many successful blockchain startups. He gives speeches on blockchain and entrepreneurship at universities and high schools in Taiwan.
+1. ***Jack Lu*** Founder of Wanchain. Graduated from Peking University and MBA fromThe Ohio State University. Blockchain entrepreneur and technical expert. Cofounded Factom in 2014. Founded Wanglutech, which brings Blockchain technology to a greater range of applications.
 
-2. ***Neeraj Murarka*** is a software engineer and computer systems architect with over 20 years expertise in cutting edge technology. He has worked on projects for Google, IBM, Hewlett Packard, Lufthansa, Thales Avionics, and Zynga. Some of Neeraj's largest projects include: locking down of modi ed Android OS for retail markets; multicast UDP satellite-based music streaming systems, mobile app for blockchain startup "Zeroblock"; design and development of secure and FFA-approved systems for Airbus and Boeing commercial aircraft.
+2. ***Christopher Shen*** is an entrepreneur, blockchain enthusiast, futurist, designer and investor in technologies. He is the Founder of Portal Networks, which builds DNS (Domain name Service) and enhancement on multiple blockchain platforms. Portal Network connects and enhances existing blockchain solutions, such as IPFS for decentralized distributed file storage, Bluzelle for decentralized data storage, and NOIA Network for CDN (Content Delivery Network). Christopher is an early investor in many successful blockchain startups. He gives speeches on blockchain and entrepreneurship at universities and high schools in Taiwan.
 
-3. ***Domas Povilauskas*** co-founded one of the most fastest-growing SaaS startups in the Baltic region - Tellq. His understanding of network technologies and data streaming businesses led to the initial concept of NOIA. Domas is responsible for business development and product vision.
+3. ***Neeraj Murarka*** is a software engineer and computer systems architect with over 20 years expertise in cutting edge technology. He has worked on projects for Google, IBM, Hewlett Packard, Lufthansa, Thales Avionics, and Zynga. Some of Neeraj's largest projects include: locking down of modi ed Android OS for retail markets; multicast UDP satellite-based music streaming systems, mobile app for blockchain startup "Zeroblock"; design and development of secure and FFA-approved systems for Airbus and Boeing commercial aircraft.
+
+4 ***Domas Povilauskas*** co-founded one of the most fastest-growing SaaS startups in the Baltic region - Tellq. His understanding of network technologies and data streaming businesses led to the initial concept of NOIA. Domas is responsible for business development and product vision.
 
 **More judges to be updated.**
 
