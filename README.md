@@ -2,13 +2,13 @@
 
 | [English](./README.md) | [한국어](./README_KR.md) | 中文(繁体) | 中文(简体) |
 
-Portal Network is honored to be inviting our partners to Bitcoin Cash Hackathon. We welcome everyone to participate and solve challenges by using different decentralized technologies.
+Portal Network is honored to invite our partners to the Bitcoin Cash Hackathon. We welcome everyone to participate and solve challenges by using different decentralized technologies.
 
 [Website](https://www.portal.network) • [GitHub](https://github.com/PortalNetwork) • [Medium](https://medium.com/portalnetworkofficial) • [Twitter](https://twitter.com/itisportal) • [Telegram](https://t.me/portalnetworkofficial)
 
 # Hackthon Summary
 
-This is a guide to let you know more about Portal Network and Bitcoin Cash(BCH). You can use our tools to build a decentralized website/application which hosted on blockchain name service.
+This is a guide to let you know more about Portal Network and Bitcoin Cash(BCH). You can use our tools to build a decentralized website/application which hosted on blockchain name service. 
 
 ## Introduction of Bitcoin Cash
 Bitcoin Cash is a fork from the Bitcoin, with core difference on its block size. Each block size is increased from 1MB to 8MB in order to process the increasing transaction volume. It also removed SegWit, an adjustment designed to free up block space by removing certain parts of the transaction.
@@ -16,14 +16,16 @@ Bitcoin Cash is a fork from the Bitcoin, with core difference on its block size.
 With Bitcoin Cash, traders can trade at a lower cost and higher transaction volume, which potentially opens up rooms for more commercial usage.
 
 ## What is this Hackathon about?
-Cryptocurrency and blockchain technology have definitely become one of the top trending topics last year. However, more than 90% of the people in this industry are traders and investors. It seems that most of the people are ignoring the technology behind that made bitcoin and all other cryptocurrencies possible. Portal Network values the technology behind the scene, so in order to foster this decentralized technology, Portal Network and its partners welcome anyone to join this Hackathon.
+Cryptocurrency has made great impact to the current economy. Furthermore, many dApps and dWebs are shpaing the e-commerce and industries in a disruptive way. The goal of this hackathon is to let developers and communities bring all the brillant ideas and usages into the decentralized network.
+
+During this hackathon, global communities will connect together, share their experiences and ideas in order to shape the future economy. Join us to hack the ever-lasting human poverty problem.
 
 ## Rules
 During the hackathon, 3 technologies will be used:
 
-- Portal Network - Blockchain name service and web builder.
 - Bitcoin Cash - Bitcoin Cash Blockchain.
 - Wormhole - Wormhole is a fast, portable Omni Layer implementation that is based off the Bitcoin Cash.
+- Portal Network - Blockchain name service and web builder.
 
 Participants will have a challenge to solve by applying the relevant blockchain technology. At the end of the event, each team will have to prepare a pitch on stage to demonstrate their idea or product, which will be scored by the judges (please see Judging section below for more information).
 
