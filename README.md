@@ -1,4 +1,4 @@
-# Bitcoin Cash Hackathon Guideline
+# Bitcoin Cash Hackathon
 
 [Continuously updating]
 
