@@ -6,9 +6,18 @@ Portal Network is honored to invite our partners to the Bitcoin Cash Hackathon. 
 
 [Website](https://www.portal.network) • [GitHub](https://github.com/PortalNetwork) • [Medium](https://medium.com/portalnetworkofficial) • [Twitter](https://twitter.com/itisportal) • [Telegram](https://t.me/portalnetworkofficial)
 
-# Hackthon Summary
+# Hackathon Summary
 
 This is a guide to let you know more about Portal Network and Bitcoin Cash(BCH). You can use our tools to build a decentralized website/application which hosted on blockchain name service. 
+
+# Blockchain Name Service (BNS)
+
+What is BNS?
+BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as ‘yourwebsite.eth’ or ‘mywebsite.neo’ into addresses understandable by decentralized network machines.
+
+# Bitcoin Cash Name Service (BCNS)
+
+BCNS eliminates the need to copy or type long addresses. With BNS, you'll be able to send token to anyone at 'yourfriend.bch'  instead of 'pqkh9ahfj069qv8l6eys...', interact with your favorite contract at 'mycontract.bch', or visit an IPFS-hosted site at 'mywebsite.bch’.
 
 ## Introduction of Bitcoin Cash
 Bitcoin Cash is a fork from the Bitcoin, with core difference on its block size. Each block size is increased from 1MB to 8MB in order to process the increasing transaction volume. It also removed SegWit, an adjustment designed to free up block space by removing certain parts of the transaction.
