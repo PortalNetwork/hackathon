@@ -1,3 +1,5 @@
+![Bitcoin Cash](./assets/bch.png)
+
 # Bitcoin Cash Hackathon
 
 [Continuously updating]
