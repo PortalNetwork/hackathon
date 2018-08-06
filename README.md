@@ -1,7 +1,5 @@
 ![Bitcoin Cash](./assets/bch.png)
 
-# Bitcoin Cash Hackathon
-
 [Continuously updating]
 
 Portal Network is honored to be inviting our partners to Bitcoin Cash Hackathon. We welcome everyone to participate and solve challenges by using different decentralized technologies.
