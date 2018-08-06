@@ -1,36 +1,31 @@
-# Portal Network Hackathon
+# Bitcoin Cash Hackathon Guideline
 
 [Continuously updating]
 
-Portal Network is honored to be inviting our partners to Hackathon Korea. We welcome everyone to participate and solve challenges by using different decentralized technologies.
-
-# Hackthon Summary
-
-## Introduction of Portal Network
+Portal Network is honored to be inviting our partners to Bitcoin Cash Hackathon. We welcome everyone to participate and solve challenges by using different decentralized technologies.
 
 [Our Blog](https://medium.com/portalnetworkofficial)
 
 [Our Github](https://github.com/PortalNetwork)
 
-This is a guide to let you know more about Portal Network. You can use our tools to build a decentralized website/application that is hosted on blockchain name service.
+# Hackthon Summary
+
+This is a guide to let you know more about Portal Network and Bitcoin Cash(BCH). You can use our tools to build a decentralized website/application which hosted on blockchain name service.
+
+## Introduction of Bitcoin Cash
+Bitcoin Cash is a fork from the Bitcoin, with core difference on its block size. Each block size is increased from 1MB to 8MB in order to process the increasing transaction volume. It also removed SegWit, an adjustment designed to free up block space by removing certain parts of the transaction.
+
+With Bitcoin Cash, traders can trade at a lower cost and higher transaction volume, which potentially opens up rooms for more commercial usage.
 
 ## What is this Hackathon about?
 Cryptocurrency and blockchain technology have definitely become one of the top trending topics last year. However, more than 90% of the people in this industry are traders and investors. It seems that most of the people are ignoring the technology behind that made bitcoin and all other cryptocurrencies possible. Portal Network values the technology behind the scene, so in order to foster this decentralized technology, Portal Network and its partners welcome anyone to join this Hackathon.
 
-Participants will solve the challenges by utilizing different technologies provided in the event. People who have been in blockchain might have noticed that decentralized technology still has lots of challenges to overcome, such as scalability, security and so on. This Hackathon will be the time to try and test its limit.
-
-*By participating the Hackathon Korea by Portal Network, you are agreeing to all the terms and rules stated below.
-
 ## Rules
 During the hackathon, 3 technologies will be used:
-1. Portal Network - decentralized domain name service and web builder
-2. Bluzelle - decentralized database
-3. NOIA Network - decentralized content delivery network (CDN)
 
-Additionally, 3 different smart contract platforms will be used:
-1. Ethereum
-2. Ethereum Classic
-3. Wanchain
+- Portal Network - Blockchain name service and web builder.
+- Bitcoin Cash - Bitcoin Cash Blockchain.
+- Wormhole - Wormhole is a fast, portable Omni Layer implementation that is based off the Bitcoin Cash.
 
 Participants will have a challenge to solve by applying the relevant blockchain technology. At the end of the event, each team will have to prepare a pitch on stage to demonstrate their idea or product, which will be scored by the judges (please see Judging section below for more information).
 
@@ -42,38 +37,22 @@ Portal Network includes several technologies into our ecosystem.
 
 Technology               | Project
 -------------------------|:-------------------------------------
+Blockchain               | [Bitcoin Cash](https://www.bitcoincash.org/)
+Wormhole                 | [Wormhole](https://github.com/copernet/wormhole)
 Domain Name Service      | [Portal Network](https://www.portal.network/)
-Content Delivery Network | [NOIA Network](http://noia.network/)
 File Storage             | [IPFS](https://ipfs.io/)
-Database                 | [Bluzelle](https://bluzelle.com/)
-Blockchain               | [Ethereum](https://ethereum.org/), [Ethereum Classic](https://ethereumclassic.org/), [Wanchain](https://wanchain.org/)
-Crowdfunding             | [Pledgecamp](https://pledgecamp.com/)
 
+## Bitcoin Cash
+Bitcoin Cash is an experimental digital currency that enables instant payments to anyone, anywhere in the world. It uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Bitcoin Cash is a descendant of Bitcoin. It became a separate currency from the version supported by Bitcoin Core when the two split on August 1, 2017. Bitcoin Cash and the Bitcoin Core version of Bitcoin share the same transaction history up until the split.
 
-### Portal Network
+## Wormhole
+Wormhole is a fast, portable Omni Layer implementation that is based off the Bitcoin ABC codebase (currently 0.17.2). This implementation requires no external dependencies extraneous to Bitcoin ABC, and is native to the Bitcoin Cash network just like other Bitcoin Cash nodes. It currently supports a wallet mode and is seamlessly available on three platforms: Windows, Linux and Mac OS. Wormhole Cash Layer extensions are exposed via the JSON-RPC interface. Development has been consolidated on the Wormhole product, and it is the reference client for the Wormhole Cash Layer.
 
-Portal Network connects ENS, ECNS and WNS, and provides distributed, open, and extensible naming system based on smart contract platforms.
+## Portal Network
+Portal Network connects ENS, ECNS, WNS and BCNS, and provides distributed, open, and extensible naming system based on smart contract platforms.
 
-### NOIA Network
-
-NOIA is a decentralized content delivery network for the new internet.
-
-#### Links 
-- [SDK NPM](https://www.npmjs.com/package/@noia-network/sdk)
-- [SDK GitHub](https://github.com/noia-network/sdk) 
-- [SDK Examples](https://github.com/noia-network/examples)
-
-### IPFS
-
+## IPFS
 IPFS is a peer-to-peer hypermedia protocol that makes the web faster, safer, and transparent.
-
-### Bluzelle
-
-Bluzelle brings together the sharing economy and token economy. Bluzelle enables people to rent out their computer storage space to earn a token while dApp developers pay tokens in return.
-
-### Pledgecamp
-
-Pledgecamp uses blockchain technology to promote trust and cooperation between backers and creators.
 
 ## Hackathon Challenge Description
 
@@ -85,31 +64,13 @@ Participants should utilize the technologies provided
 
 #### Challenge Detail
 
-Portal Network provides the modern dApp framwework which contains the decentralized technology that includes NOIA, Bluzelle, and IPFS.
+Portal Network provides the modern dApp framwework which contains and utilized BNS and IPFS.
 
-Teams may use the dApp framework to implement their own ideas, and deploy it onto Portal Network's system. You'll get the corresponding IPFS link and the wanchain name service.
-
-Here is the guide:
-- Use our react-truffle-metamask framework, or choose your favorite dapp framework
-    - The repo link :
-    [https://github.com/PortalNetwork/react-truffle-metamask](https://github.com/PortalNetwork/react-truffle-metamask)
-    - This frameworks contain the following integrations :
-        1. React & Redux
-        2. Truffle
-        3. Bluzelle
-        4. Web3
-        5. MetaMask
-- Use our hackathon uploader to deploy your project: [http://h2.portal.network](http://h2.portal.network)
-
-- Access your decentralized website/application by using our browser extension: [Link](https://chrome.google.com/webstore/detail/portal-network/apcnffelpkinnpoapmokieojaffmcpmf?utm_source=chrome-ntp-icon)
+Teams may build a dApp utilized dApp framework to implement their own ideas, and deploy it through Portal Network platform. You'll get the corresponding IPFS link and the Bitcoin Cash Name Service with your dApp.
 
 ### 2. Business Model Requirement
 
 This Hackathon is not only about the blockchain technology, but also about implementing it into real application. Thus, ideas established on a workable business model will be the second requirement for this Hacakthon.
-
-#### Pledgecamp
-
-Pledgecamp utilizes the blockchain technology to improve the efficency and trust issue within the current crowdfunding system. In this Hackathon, imagine you are a creator building a project that will be posted on Pledgecamp. Prepare a pitch that can effectively communicate your projects to the backers.
 
 ## Judging Criteria
 1. Utilization of the Blockchain technology provided (25%) :
@@ -130,14 +91,6 @@ Pledgecamp utilizes the blockchain technology to improve the efficency and trust
     Each participating team will have a vote for their favorite project (cannot vote for themselves).
 
 ## Judges
-
-1. ***Jack Lu*** Founder of Wanchain. Graduated from Peking University and MBA fromThe Ohio State University. Blockchain entrepreneur and technical expert. Cofounded Factom in 2014. Founded Wanglutech, which brings Blockchain technology to a greater range of applications.
-
-2. ***Christopher Shen*** is an entrepreneur, blockchain enthusiast, futurist, designer and investor in technologies. He is the Founder of Portal Networks, which builds DNS (Domain name Service) and enhancement on multiple blockchain platforms. Portal Network connects and enhances existing blockchain solutions, such as IPFS for decentralized distributed file storage, Bluzelle for decentralized data storage, and NOIA Network for CDN (Content Delivery Network). Christopher is an early investor in many successful blockchain startups. He gives speeches on blockchain and entrepreneurship at universities and high schools in Taiwan.
-
-3. ***Neeraj Murarka*** is a software engineer and computer systems architect with over 20 years expertise in cutting edge technology. He has worked on projects for Google, IBM, Hewlett Packard, Lufthansa, Thales Avionics, and Zynga. Some of Neeraj's largest projects include: locking down of modi ed Android OS for retail markets; multicast UDP satellite-based music streaming systems, mobile app for blockchain startup "Zeroblock"; design and development of secure and FFA-approved systems for Airbus and Boeing commercial aircraft.
-
-4. ***Domas Povilauskas*** co-founded one of the most fastest-growing SaaS startups in the Baltic region - Tellq. His understanding of network technologies and data streaming businesses led to the initial concept of NOIA. Domas is responsible for business development and product vision.
 
 **More judges to be updated.**
 
