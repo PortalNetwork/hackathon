@@ -1,10 +1,10 @@
 ![Bitcoin Cash](./assets/bch.png)
 
+| [English](./README.md) | [한국어](./README_KR.md) | 中文(繁体) | 中文(简体) |
+
 Portal Network와 함께 이번 비트코인 캐시 해커톤에 참여하세요. 서로 경험을 공유하고 해커톤에서 제공되는 다양한 블록체인 기술들을 이용해 문제 해결에 도전해 보세요!
 
-[블로그](https://medium.com/portalnetworkofficial)
-
-[Github](https://github.com/PortalNetwork)
+[Website](https://www.portal.network) • [GitHub](https://github.com/PortalNetwork) • [Medium](https://medium.com/portalnetworkofficial) • [Twitter](https://twitter.com/itisportal) • [Telegram](https://t.me/portalnetworkofficial)
 
 # Portal Network 해커톤 소개
 이 가이드는 Portal Network와 비트코인 캐시(BCH)를 소개하는 문서다. Portal Network에서 제공하는 기술들을 사용해 블록체인 네임 서비스에 호스팅된 탈중앙화 웹사이트와 어플을 구축할 수 있습니다.
