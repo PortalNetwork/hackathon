@@ -1,6 +1,6 @@
 ![Bitcoin Cash](./assets/bch.png)
 
-| [English](./README.md) | [한국어](./README_KR.md) | 中文(繁体) | 中文(简体) |
+| [English](./README.md) | [한국어](./README_KR.md) | [中文(繁体)](./README_ZH.md) | [中文(简体)](./README_CN.md) |
 
 Portal Network와 함께 이번 비트코인 캐시 해커톤에 참여하세요. 서로 경험을 공유하고 해커톤에서 제공되는 다양한 블록체인 기술들을 이용해 문제 해결에 도전해 보세요!
 

@@ -1,6 +1,6 @@
 ![Bitcoin Cash](./assets/bch.png)
 
-| [English](./README.md) | [한국어](./README_KR.md) | 中文(繁体) | 中文(简体) |
+| [English](./README.md) | [한국어](./README_KR.md) | [中文(繁体)](./README_ZH.md) | [中文(简体)](./README_CN.md) |
 
 Portal Network 很榮幸邀請我們的合作夥伴加入 Bitcoin Cash Hackathon。我們歡迎每個人使用不同的去中心化技術參與並解決面前的挑戰。
 
