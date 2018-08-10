@@ -15,10 +15,10 @@ Download: [Wormhole Client](https://github.com/copernet/wormhole)
 You have to use BCH to get WHC, the exchange rate is 1 BCH : 100 WHC.
 Send your BCH to the address below to get the WHC:
 
-Network | Address                                     |
---------|---------------------------------------------|------------------------------
-Mainnet | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqu08dsyxz98whc  | After 1000 block confirmation WHC will transfer to your wallet address
-Testnet | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqdmwgvnjkt8whc  | After 3 block confirmation WHC will transfer to your wallet address
+Network | Address                                     |                                   |
+--------|---------------------------------------------|------------------------------     |
+Mainnet | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqu08dsyxz98whc  | After 1000 block confirmation WHC will transfer to your wallet address|
+Testnet | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqdmwgvnjkt8whc  | After 3 block confirmation WHC will transfer to your wallet address|
 
 ## Wormhole Commands
 
