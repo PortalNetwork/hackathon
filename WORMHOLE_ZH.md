@@ -14,9 +14,9 @@
 將您的BCH發送到以下地址以獲得WHC：
 
 網絡 | 地址 |
---------|----------------------------------------- ----|------------------------------
-主網 | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqu08dsyxz98whc | 1000塊確認後，WHC將轉移到您的錢包地址
-測試網 | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqdmwgvnjkt8whc | 3塊確認後，WHC將轉移到您的錢包地址 address
+--------|----------------------------------------- ----|------------------------------|
+主網 | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqu08dsyxz98whc | 1000塊確認後，WHC將轉移到您的錢包地址|
+測試網 | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqdmwgvnjkt8whc | 3塊確認後，WHC將轉移到您的錢包地址 address|
 
 ## Wormhole 指令
 
