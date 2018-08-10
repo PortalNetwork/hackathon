@@ -33,7 +33,7 @@ Wornhole协议技术文件支援下面几种语言
 - [英文]（./ WORNHOLE.md）
 - 한국어
 - [中文（繁体）]（./ WORNHOLE_ZH.md）
-- [中文（简体）]（./ WORNHOLE_CN.md）|
+- [中文（简体）]（./ WORNHOLE_CN.md)
 
 ##这个Hackathon是关于什么的？
 加密货币对当前的经济产生了很大的影响。并且许多dApp和dWebs正在以颠覆性的方式影响电子商务和各个行业。而这个hackathon的目标是让开发人员和开发者社区将所有聪明的想法和应用带入去中心化网络。
