@@ -13,10 +13,10 @@
 您必须使用BCH来获得WHC，汇率为1 BCH：100 WHC。
 将您的BCH发送到以下地址以获得WHC：
 
-网络     | 地址                                        |
---------|---------------------------------------------|------------------------------
-主网     | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqu08dsyxz98whc  | 1000块确认后，WHC将转移到您的钱包地址
-测试网   | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqdmwgvnjkt8whc  | 3块确认后，WHC将转移到您的钱包地址 address
+网络     | 地址                                        |                              |
+--------|---------------------------------------------|------------------------------|
+主网     | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqu08dsyxz98whc  | 1000块确认后，WHC将转移到您的钱包地址|
+测试网   | qqqqqqqqqqqqqqqqqqqqqqqqqqqqqdmwgvnjkt8whc  | 3块确认后，WHC将转移到您的钱包地址 address|
 
 ## Wormhole 命令
 
