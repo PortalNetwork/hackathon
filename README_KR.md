@@ -34,10 +34,10 @@ Portal Network의 생태계에는 다양한 핵심 기술들이 있습니다.
 
 기술                      | Project
 -------------------------|:-------------------------------------
-블록체인  		       | [비트코인 캐시](https://www.bitcoincash.org/)
-웜홀		        | [웜홀](https://github.com/copernet/wormhole)
+블록체인  		           | [비트코인 캐시](https://www.bitcoincash.org/)
+웜홀		              | [웜홀](https://github.com/copernet/wormhole)
 도메인 네임 서비             | [Portal Network](https://portal.network/)
-파일 스토리지                | [IPFS](https://ipfs.io/)
+파일 스토리지               | [IPFS](https://ipfs.io/)
 
 ### 비트코인 캐시
 비트코인 캐시는 언제 어디서든 즉시 지불이 가능한 실험적인 디지털 통화입니다. 탈중앙화 운영으로 P2P 기술을 사용하며 트랜잭션 관리 및 통화발행은 네트워크에서 통합적으로 수행됩니다. 비트코인 캐시는 비트코인의 후자로 포크전까지는 비트코인과 동일한 거래 내역을 가지고 있다.

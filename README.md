@@ -24,6 +24,16 @@ Bitcoin Cash is a fork from the Bitcoin, with core difference on its block size.
 
 With Bitcoin Cash, traders can trade at a lower cost and higher transaction volume, which potentially opens up rooms for more commercial usage.
 
+## Introduction of Wormholde
+The Wormhole protocol is based on the Bitcoin Cash transaction; the special opcode `OP_RETURN` in the Bitcoin Cash script is used to append the Wormhole protocol to the opcode. In general: the Wormhole transaction is a special Bitcoin Cash transaction that uses the same security and validation model as the Bitcoin Cash transaction.
+
+### Technical Manual
+The Wornhole Protocol technical document have the several language support below.
+- [English](./WORNHOLE.md) 
+- 한국어
+- [中文(繁体)](./WORNHOLE_ZH.md) 
+- [中文(简体)](./WORNHOLE_CN.md) |
+
 ## What is this Hackathon about?
 Cryptocurrency has made great impact to the current economy. Furthermore, many dApps and dWebs are shpaing the e-commerce and industries in a disruptive way. The goal of this hackathon is to let developers and communities bring all the brillant ideas and usages into the decentralized network.
 
