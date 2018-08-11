@@ -30,10 +30,10 @@ Wormhole 協議基於 Bitcoin Cash 的交易; Bitcoin Cash 腳本中的特殊操
 
 ### Technical Manual
 Wornhole 協議技術文件支援下面幾種語言
-- [English](./WORNHOLE.md) 
-- 한국어
-- [中文(繁体)](./WORNHOLE_ZH.md) 
-- [中文(简体)](./WORNHOLE_CN.md)
+- [English](./WORMHOLE.md) 
+- [한국어](./WORMHOLE_KR.md)
+- [中文(繁体)](./WORMHOLE_ZH.md) 
+- [中文(简体)](./WORMHOLE_CN.md)
 
 ## What is this Hackathon about?
 加密貨幣對當前的經濟產生了很大的影響。並且許多dApp和dWebs正在以顛覆性的方式影響電子商務和各個行業。而這個 hackathon 的目標是讓開發人員和開發者社區將所有聰明的想法和應用帶入去中心化網絡。
