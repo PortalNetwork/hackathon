@@ -29,10 +29,10 @@ The Wormhole protocol is based on the Bitcoin Cash transaction; the special opco
 
 ### Technical Manual
 The Wornhole Protocol technical document have the several language support below.
-- [English](./WORNHOLE.md) 
-- 한국어
-- [中文(繁体)](./WORNHOLE_ZH.md) 
-- [中文(简体)](./WORNHOLE_CN.md)
+- [English](./WORMHOLE.md) 
+- [한국어](./WORMHOLE_KR.md)
+- [中文(繁体)](./WORMHOLE_ZH.md) 
+- [中文(简体)](./WORMHOLE_CN.md)
 
 ## What is this Hackathon about?
 Cryptocurrency has made great impact to the current economy. Furthermore, many dApps and dWebs are shpaing the e-commerce and industries in a disruptive way. The goal of this hackathon is to let developers and communities bring all the brillant ideas and usages into the decentralized network.
