@@ -84,7 +84,9 @@ Hackathon挑战包含两个要求
 
 ### 1.技术需求
 
-参与者需要使用所提供的技术
+参与者需要使用所提供的技术来完成 Hackathon 专案。
+Portal Network 将提供 Bitcoin Cash 服务器让参与者连接，并建立 Hackathon 专案。
+**Bitcoin Cash 服务器将在稍后公布**
 
 #### 挑战细节
 

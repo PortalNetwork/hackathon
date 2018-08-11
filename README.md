@@ -79,7 +79,15 @@ Portal Network Hackathon Challenge contains two requirements: technical, and an 
 
 ### 1. Technical Requirement
 
-Participants should utilize the technologies provided
+Participants should utilize the technologies provided.
+Portal Network will provide the Bitcoin Cash servers to let participant to connect with.
+And building the hackathon project top of it.
+**Hackathon Bitcoin Cash full node endpoint will annouce later**
+
+Here's a way to start Bitcoin Cash by on your local machine by install Bitcoin ABC full node: 
+- Linux: [Download](https://download.bitcoinabc.org/0.17.2/linux/)
+- Mac OS: [Download](https://download.bitcoinabc.org/0.17.2/osx/)
+- Windows: [Download](https://download.bitcoinabc.org/0.17.2/win/)
 
 #### Challenge Detail
 

@@ -85,6 +85,13 @@ Hackathon 挑戰包含兩個要求
 ### 1. 技術需求
 
 參與者需要使用所提供的技術
+Portal Network 將提供 Bitcoin Cash 服務器讓參與者連接，並建立 Hackathon 專案。
+**Bitcoin Cash 服務器將在稍後公佈**
+
+Here's a way to start Bitcoin Cash by on your local machine by install Bitcoin ABC full node: 
+- Linux: [Download](https://download.bitcoinabc.org/0.17.2/linux/)
+- Mac OS: [Download](https://download.bitcoinabc.org/0.17.2/osx/)
+- Windows: [Download](https://download.bitcoinabc.org/0.17.2/win/)
 
 #### 挑戰細節
 
