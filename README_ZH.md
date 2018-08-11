@@ -84,7 +84,7 @@ Hackathon 挑戰包含兩個要求
 
 ### 1. 技術需求
 
-參與者需要使用所提供的技術
+參與者需要使用所提供的技術來完成 Hackathon 專案。
 Portal Network 將提供 Bitcoin Cash 服務器讓參與者連接，並建立 Hackathon 專案。
 **Bitcoin Cash 服務器將在稍後公佈**
 
