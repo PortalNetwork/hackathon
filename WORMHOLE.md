@@ -1,6 +1,6 @@
 # Wormhole Protocol
 
-| [English](./WORMHOLE.md) | 한국어 | [中文(繁体)](./WORMHOLE_ZH.md) | [中文(简体)](./WORMHOLE_CN.md) |
+| [English](./WORMHOLE.md) | [한국어](./WORMHOLE_KR.md) | [中文(繁体)](./WORMHOLE_ZH.md) | [中文(简体)](./WORMHOLE_CN.md) |
 
 This tutorial is to guide how to create a crowdsale through Wormhole Protocol on Bitcoin Cash.
 

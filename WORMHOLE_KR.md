@@ -1,6 +1,6 @@
 # 웜홀 프로토콜
 
-| [English](./WORMHOLE.md) | 한국어 | [中文(繁体)](./WORMHOLE_ZH.md) | [中文(简体)](./WORMHOLE_CN.md) |
+| [English](./WORMHOLE.md) | [한국어](./WORMHOLE_KR.md) | [中文(繁体)](./WORMHOLE_ZH.md) | [中文(简体)](./WORMHOLE_CN.md) |
 
 이 문서는 비트코인 캐시에서 웜홀 프로토콜을 통해 클라우드세일을 실행하는 가이드다.
 
