@@ -59,10 +59,10 @@ Wornhole协议技术文件支援下面几种语言
 
 技术|项目
 ------------------------- |：----------------------- --------------
-区块链| [比特币现金]（https://www.bitcoincash.org/）
-虫洞| [虫洞]（https://github.com/copernet/wormhole）
-域名服务| [门户网络]（https://www.portal.network/）
-文件存储| [IPFS]（https://ipfs.io/）
+区块链| [Bitcoin Cash](https://www.bitcoincash.org/)
+虫洞| [Wormhold](https://github.com/copernet/wormhole)
+域名服务| [Portal Network](https://www.portal.network/)
+文件存储| [IPFS](https://ipfs.io/)
 
 ##比特币现金
 Bitcoin Cash是一种实验性数字货币，可以向世界任何地方的任何人提供即时支付。它使用点对点技术在没有中央权限的情况下运营：管理交易和发行资金由网络共同执行。比特币现金是比特币的延伸。
